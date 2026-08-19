@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# 运行时数据
+chroma_db/
+chat_history/
+md5.text
+
+# 环境与日志
+.env
+*.log
